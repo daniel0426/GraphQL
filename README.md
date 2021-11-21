@@ -1,2 +1,2 @@
-# graphql-movie
-Movie API with GraphQL
+# GraphQL
+Practice GraphQL
