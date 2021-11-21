@@ -1,0 +1,22 @@
+{
+  "name": "graphql-movie",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/daniel0426/graphql-movie",
+  "author": "Daniel Chung",
+  "license": "MIT",
+  "scripts": {
+    "start": "nodemon --exec ./node_modules/.bin/babel-node index.js"
+  },
+  "devDependencies": {
+    "@babel/cli": "^7.16.0",
+    "@babel/core": "^7.16.0",
+    "@babel/node": "^7.16.0",
+    "@babel/preset-env": "^7.16.4",
+    "graphql-yoga": "^1.18.3",
+    "nodemon": "^2.0.15"
+  },
+  "dependencies": {
+    "node-fetch": "^2.6.5"
+  }
+}
